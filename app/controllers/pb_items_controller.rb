@@ -1,0 +1,2 @@
+class PbItemsController < ApplicationController
+end

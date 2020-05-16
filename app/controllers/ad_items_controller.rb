@@ -1,0 +1,2 @@
+class AdItemsController < ApplicationController
+end

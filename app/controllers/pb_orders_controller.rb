@@ -1,0 +1,2 @@
+class PbOrdersController < ApplicationController
+end
